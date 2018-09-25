@@ -1,0 +1,60 @@
+Total Medical Words:	159
+Words	Count 
+cancer	5
+prolactinomas	2
+CXCR4	10
+all-in-one nanoparticle	1
+ILC	1
+breast cancers	1
+Ag2S-NP	1
+breast cancer detection	1
+tumour	1
+ethinyl estradiol	1
+Familial Cancer	1
+breast and lung cancers	2
+colon cancer	1
+PA	11
+familial cancer	1
+pituitary adenomas	2
+colon cancers	1
+increased total cancer	1
+PR	1
+metastasis	2
+disproportionate	1
+Chemical	3
+Colorectal cancer	1
+ray	1
+malignancy	2
+Breast cancer	1
+breast cancer	17
+silver sulfide	1
+invasive lobular carcinoma	1
+placed in breast and axilla	1
+Breast Cancer	1
+levonorgestrel	1
+Seroma	2
+Prolactinoma	1
+18F-FDG	3
+prolactinoma	4
+human epidermal growth factor receptor 2	1
+Disease	6
+breast carcinoma	1
+Species	1
+invasive carcinoma	1
+progesterone	1
+DiR	1
+estrogen	1
+Gene	1
+HER2	2
+patient	3
+acromegaly	1
+patients	28
+DCE	1
+Patients	2
+women	3
+Lung cancer	1
+seroma production	7
+lung cancer	1
+tumor	4
+People	1
+AION	3

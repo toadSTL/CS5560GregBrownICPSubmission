@@ -9,7 +9,7 @@ object SparkMedWords {
 
   def main(args: Array[String]) {
 
-    System.setProperty("hadoop.home.dir","D:\\winutils");
+    System.setProperty("hadoop.home.dir","D:\\winutils")
 
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]").set("spark.executor.memory","4g")
 
@@ -48,11 +48,11 @@ object SparkMedWords {
       }
 
       val medWordsOut = sc.parallelize(medWords.toList).map(word => (word._1, 1)).reduceByKey(_+_)
-      medWordsOut.saveAsTextFile("OutputMedWords")
+      medWordsOut.saveAsTextFile("output/MedWords")
       val mwO=medWordsOut.collect()
 
       var s:String="Words\tCount \n"
-      var c = 0;
+      var c = 0
       mwO.foreach{case(word,count)=>{
 
         s+=word+"\t"+count+"\n"
