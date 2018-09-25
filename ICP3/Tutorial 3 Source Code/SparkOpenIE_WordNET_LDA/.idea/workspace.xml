@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="656ef193-b85e-483f-938f-97a1f4cb2910" name="Default Changelist" comment="" />
+    <list default="true" id="656ef193-b85e-483f-938f-97a1f4cb2910" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/modules/SparkTransformationActions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/modules/spark-word-count-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/modules/spark-wordcount-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/Spark WordCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/PubMedIDs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/data/abstracts/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/lib/rita.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/src/main/scala/CoreNLP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/src/main/scala/SparkMedWords.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/src/main/scala/SparkPOSCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/src/main/scala/SparkWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP4/Spark Word Count/src/main/scala/SparkWordNet.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -60,12 +91,13 @@
     <session id="-1511013799">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -103,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="340">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
@@ -175,8 +207,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="450" />
+    <option name="y" value="30" />
     <option name="width" value="1383" />
     <option name="height" value="745" />
   </component>
@@ -186,7 +218,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,13 +264,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537745972314" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ICP4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -341,18 +374,18 @@
       <workItem from="1537745539846" duration="510000" />
       <workItem from="1537746082390" duration="4115000" />
       <workItem from="1537773509645" duration="37000" />
-      <workItem from="1537831238196" duration="619000" />
+      <workItem from="1537831238196" duration="771000" />
+      <workItem from="1537833431943" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14571000" />
+    <option name="totallyTimeSpent" value="14726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -432,7 +465,7 @@
     <entry file="file://$PROJECT_DIR$/data/1.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#17#51#0" expanded="true" />
