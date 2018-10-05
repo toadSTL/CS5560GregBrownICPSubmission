@@ -18,13 +18,14 @@ object W2V {
 
     val in = sc.textFile("output/TF_IDF_Out.txt")
 
+    //get just the words fro comparision from the TF-IDF output
     val compWords = in.flatMap(a =>{
       val r = a.substring(1, a.indexOf(",")).split(" ")
       r
     })
 
+    //get the input text files for creating the Word2Vec Model
     val input = sc.wholeTextFiles("abstracts").map(line => line._2.split(" ").toSeq)
-    //var compareWord = "MRI"
 
 
     val modelFolder = new File("W2V/Model")
@@ -63,7 +64,8 @@ object W2V {
           model.save(sc, "W2V/Model")
         }
       })
-    }
+
+      
     val pw = new PrintWriter(new File("output/W2V.txt"))
     pw.write(s)
     pw.close()

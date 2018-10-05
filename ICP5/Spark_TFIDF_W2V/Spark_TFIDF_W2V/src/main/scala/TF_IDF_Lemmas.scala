@@ -24,9 +24,7 @@ object TF_IDF_Lemmas {
     val documents = sc.wholeTextFiles("abstracts") //WholeTextFiles
 
     val stopword = sc.textFile("data/stopwords.txt")
-
     val sw = stopword.flatMap(x => x.split(",")).map(_.trim)
-
     val broadcastSW = sc.broadcast(sw.collect.toSet)
 
     //Getting the Lemmatised form of the words in TextFile
