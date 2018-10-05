@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="baa0a723-3760-4980-9d41-8f8f33ded7c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/TF_IDF_Lemmas.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/TF_IDF_Lemmas.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/W2V.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/src/main/scala/W2V.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />

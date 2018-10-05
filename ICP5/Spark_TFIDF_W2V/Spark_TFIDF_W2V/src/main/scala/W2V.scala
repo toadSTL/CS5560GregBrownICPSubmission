@@ -65,7 +65,7 @@ object W2V {
         }
       })
 
-      
+
     val pw = new PrintWriter(new File("output/W2V.txt"))
     pw.write(s)
     pw.close()
