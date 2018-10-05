@@ -22,7 +22,7 @@ object SparkWordCount {
     //})
 
     val wc = inputf.flatMap(abs=>{
-      abs._2.split(" ")
+      abs._2.split(" ")//this is a sequence
     }).map(word=> {
       if ((word.length() > 0) && (word.charAt(word.length() - 1) == '.')) {
         word.dropRight(1)
@@ -46,7 +46,16 @@ object SparkWordCount {
 
     val output=wc.reduceByKey(_+_)
 
-    output.saveAsTextFile("output/WordCount")
+    println("inputf")
+
+    inputf.foreach(println)
+
+    val test = inputf.flatMap(abs => {abs._2.split(" ")})
+    println("test")
+
+    test.foreach(println)
+
+    output.saveAsTextFile("output/temp/WordCount")
 
     val o=output.collect()
 
