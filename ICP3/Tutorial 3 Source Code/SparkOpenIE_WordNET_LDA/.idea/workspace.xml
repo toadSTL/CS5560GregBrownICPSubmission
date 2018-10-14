@@ -2,7 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656ef193-b85e-483f-938f-97a1f4cb2910" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/src/main/scala/SparkWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/src/main/scala/SparkWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_github_ben_manes_caffeine_caffeine_2_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_github_jsonld_java_jsonld_java_0_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_guava_guava_20_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_extensions_guice_multibindings_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_guice_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__commons_codec_commons_codec_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__commons_io_commons_io_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sf_trove4j_trove4j_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_api_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_apibinding_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_compatibility_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_distribution_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_impl_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_oboformat_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_parsers_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_rio_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_tools_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_commons_commons_rdf_api_0_3_0_incubating_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_fluent_hc_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_cache_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_osgi_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_nio_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_osgi_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_model_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_api_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_binary_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_datatypes_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_jsonld_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_languages_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_n3_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_nquads_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_ntriples_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfjson_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfxml_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trig_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trix_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_turtle_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_util_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_tukaani_xz_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/DataProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Individuals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Triplets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/src/main/scala/TripletProcessing.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,24 +126,24 @@
         <counts>
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
           <entry key="sbt" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="sbt" value="1" />
         </counts>
       </usages-collector>
@@ -103,11 +165,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
               </folding>
@@ -136,8 +198,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="37" selection-end-column="12" />
+            <state relative-caret-position="646">
+              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
               <folding>
                 <element signature="e#16#55#0" expanded="true" />
               </folding>
@@ -147,6 +209,24 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/triplet1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret column="4428" selection-start-column="4428" selection-end-column="4428" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/triplet2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/triplet3.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -178,22 +258,28 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1383" />
-    <option name="height" value="745" />
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
               <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
@@ -233,8 +319,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -242,7 +326,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537745972314" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ICP4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -348,17 +432,18 @@
       <workItem from="1537831238196" duration="771000" />
       <workItem from="1537833431943" duration="3000" />
       <workItem from="1538365991424" duration="32000" />
+      <workItem from="1539286661485" duration="1924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14758000" />
+    <option name="totallyTimeSpent" value="16682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -427,8 +512,6 @@
     <entry file="file://$PROJECT_DIR$/data/8.txt" />
     <entry file="file://$PROJECT_DIR$/data/9.txt" />
     <entry file="file://$PROJECT_DIR$/triplets1.txt" />
-    <entry file="file://$PROJECT_DIR$/data/triplet2.txt" />
-    <entry file="file://$PROJECT_DIR$/data/triplet3.txt" />
     <entry file="file://$PROJECT_DIR$/data/triplet4.txt" />
     <entry file="file://$PROJECT_DIR$/data/triplet6.txt" />
     <entry file="file://$PROJECT_DIR$/data/triplet10.txt" />
@@ -436,6 +519,16 @@
     <entry file="file://$PROJECT_DIR$/data/10.txt" />
     <entry file="file://$PROJECT_DIR$/data/syn1.txt" />
     <entry file="file://$PROJECT_DIR$/data/1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -450,26 +543,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/triplet1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="37" selection-end-column="12" />
+        <state relative-caret-position="646">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
           <folding>
             <element signature="e#16#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala">
+    <entry file="file://$PROJECT_DIR$/data/triplet3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/triplet1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#17#51#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret column="4428" selection-start-column="4428" selection-end-column="4428" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/triplet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
