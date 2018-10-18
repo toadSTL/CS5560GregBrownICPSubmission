@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="350f8dbd-ba3f-4d8d-9bbc-419c4e066b98" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_apple_AppleJavaExtensions_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_chuusai_shapeless_2_11_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_github_rwl_jtransforms_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_github_scopt_scopt_2_10_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_google_protobuf_protobuf_java_3_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_googlecode_json_simple_json_simple_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_jamesmurty_utils_java_xmlbuilder_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_twitter_chill_java_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_univocity_univocity_parsers_2_5_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__de_jollyday_jollyday_0_4_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_models_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__edu_stanford_nlp_stanford_parser_3_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_airlift_aircompressor_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_netty_netty_3_9_9_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_iharder_base64_2_3_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_9_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_curator_curator_client_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_curator_curator_framework_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_lucene_lucene_analyzers_common_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_lucene_lucene_core_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_lucene_lucene_queries_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_lucene_lucene_queryparser_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_lucene_lucene_sandbox_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_orc_orc_core_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_mllib_local_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_javax_json_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_htrace_htrace_core_3_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scalanlp_breeze_2_11_0_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_11_0_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_spire_math_spire_2_11_0_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_spire_math_spire_macros_2_11_0_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_typelevel_machinist_2_11_0_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_typelevel_macro_compat_2_11_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/modules/ICP8SparkOpenIE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/modules/icp8sparkopenie-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/Outdated/CoreNLP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/src/main/scala/OpenIE/CoreNLP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/src/main/scala/OpenIE/SparkOpenIE.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_ben_manes_caffeine_caffeine_2_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jsonld_java_jsonld_java_0_9_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_20_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_multibindings_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_4_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sf_trove4j_trove4j_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_api_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_apibinding_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_compatibility_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_distribution_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_impl_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_oboformat_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_parsers_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_rio_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_tools_5_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_rdf_api_0_3_0_incubating_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_fluent_hc_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_cache_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_osgi_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_nio_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_osgi_4_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_model_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_api_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_binary_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_datatypes_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_jsonld_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_languages_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_n3_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_nquads_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_ntriples_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfjson_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfxml_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trig_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trix_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_turtle_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_util_2_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tukaani_xz_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/DataProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/Individuals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/Triplets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/family.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/Objects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectDisease.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectGene.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectOther.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/ObjectsBioNLP/objectSpecies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/Predicates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/Subjects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectDisease.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectGene.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectOther.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectSpecies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/Triplets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_apple_AppleJavaExtensions_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_chuusai_shapeless_2_11_2_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_rwl_jtransforms_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_github_scopt_scopt_2_10_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_google_protobuf_protobuf_java_3_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_googlecode_efficient_java_matrix_library_ejml_0_23_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_googlecode_json_simple_json_simple_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_io7m_xom_xom_1_2_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_jamesmurty_utils_java_xmlbuilder_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_twitter_chill_java_0_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_univocity_univocity_parsers_2_5_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__de_jollyday_jollyday_0_4_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_corenlp_3_9_1_models_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__edu_stanford_nlp_stanford_parser_3_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_airlift_aircompressor_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_netty_netty_3_9_9_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_iharder_base64_2_3_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_9_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_client_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_framework_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_analyzers_common_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_core_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_queries_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_queryparser_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_lucene_lucene_sandbox_4_10_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_orc_orc_core_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_4_4_nohive_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_mllib_local_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_javax_json_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_htrace_htrace_core_3_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scalanlp_breeze_2_11_0_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_11_0_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spire_math_spire_2_11_0_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_spire_math_spire_macros_2_11_0_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_typelevel_machinist_2_11_0_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_typelevel_macro_compat_2_11_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xalan_xalan_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/NCBO_BioNLP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/PubMedIDs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OntContructor" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1643167736">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Classes" value="2" />
+          <entry key="DataProperties" value="1" />
+          <entry key="Individuals" value="1" />
+          <entry key="ObjectProperties" value="1" />
+          <entry key="SubClasses" value="1" />
+          <entry key="Triplets" value="1" />
+          <entry key="owl" value="3" />
+          <entry key="scala" value="1" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Scala" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Classes" value="55" />
+          <entry key="ObjectProperties" value="4" />
+          <entry key="scala" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Scala" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="187" column="47" lean-forward="true" selection-start-line="187" selection-start-column="47" selection-end-line="187" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/Classes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/DataProperties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Individuals">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/family.owl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Outdated/Classes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preData/Objects.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1071" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/SubClasses">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Triplets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Fun</find>
+      <find>func</find>
+      <find>Asser</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/OwlPizza.java" />
+        <option value="$PROJECT_DIR$/data/SubClasses" />
+        <option value="$PROJECT_DIR$/data/Individuals" />
+        <option value="$PROJECT_DIR$/data/Triplets" />
+        <option value="$PROJECT_DIR$/data/DataProperties" />
+        <option value="$PROJECT_DIR$/src/main/scala/OntoStats.scala" />
+        <option value="$PROJECT_DIR$/data/Classes" />
+        <option value="$PROJECT_DIR$/src/main/scala/OntContructorMain.scala" />
+        <option value="$PROJECT_DIR$/data/ObjectProperties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="preData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="preData" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectsBioNLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="preData" type="462c0819:PsiDirectoryNode" />
+              <item name="SubjectsBioNLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&quot;&#9;ACTION&#9;EditorPreviousWordInDifferentHumpsMode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539895355809" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\SubjectsBioNLP" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\ObjectsBioNLP" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\objectsBioNLP" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\Outdated" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OntoStats">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OntContructorMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OntContructorMain" />
+      <module name="OntContructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OntoStats" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OntoStats" />
+      <module name="OntContructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwlPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OwlPizza" />
+      <module name="OntContructor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="OntContructor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OwlPizza" />
+      <item itemvalue="Application.OntContructorMain" />
+      <item itemvalue="Application.OntoStats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OntoStats" />
+        <item itemvalue="Application.OntContructorMain" />
+        <item itemvalue="Application.OwlPizza" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="OntContructor" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ontcontructor [file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownICPSubmission/ICP8/OntContructor/OntContructor/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ontcontructor-build [file:/D:/Users/Gregory/Documents/GitHub/CS5560GregBrownICPSubmission/ICP8/OntContructor/OntContructor/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1890066604" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2920355924" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="350f8dbd-ba3f-4d8d-9bbc-419c4e066b98" name="Default" comment="" />
+      <created>1499829200682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499829200682</updated>
+      <workItem from="1539281550672" duration="180000" />
+      <workItem from="1539281837755" duration="5656000" />
+      <workItem from="1539639447849" duration="46000" />
+      <workItem from="1539655987434" duration="3818000" />
+      <workItem from="1539716405146" duration="2072000" />
+      <workItem from="1539891389708" duration="2741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14513000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27292112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32816902" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="SBT" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="sbt" order="10" weight="0.32942432" />
+      <window_info anchor="right" id="Database" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657718" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32816902" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="SBT" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="sbt" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Output/OwlPizza.owl" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-api/srcs/owlapi-api-5.1.0-sources.jar!/org/semanticweb/owlapi/model/IRI.java" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-apibinding/srcs/owlapi-apibinding-5.1.0-sources.jar!/org/semanticweb/owlapi/apibinding/OWLManager.java" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/HasDataFactory.java" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/axiomproviders/InverseAxiomProvider.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/OwlPizza.java" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/uk/ac/manchester/cs/owl/owlapi/concurrent/ConcurrentOWLOntologyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="1331" column="9" lean-forward="true" selection-start-line="1331" selection-start-column="9" selection-end-line="1331" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/OWLSignature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/OWLOntologyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10030">
+          <caret line="636" column="56" selection-start-line="636" selection-start-column="24" selection-end-line="636" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ObjectsBioNLP/objectDisease.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectDisease.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectGene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectMutation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ObjectsBioNLP/objectGene.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ObjectsBioNLP/objectOther.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/SubjectsBioNLP/SubjectOther.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3604">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ObjectsBioNLP/objectChemical.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/OntoStats.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ajcc_R8_staging_axioms.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ajcc_R7_staging_axioms.owl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/DataProperties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/Objects.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="187" column="47" lean-forward="true" selection-start-line="187" selection-start-column="47" selection-end-line="187" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ObjectsBioNLP/objectChemical.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SubClasses">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Triplets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Individuals">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/family.owl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outdated/Classes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Classes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

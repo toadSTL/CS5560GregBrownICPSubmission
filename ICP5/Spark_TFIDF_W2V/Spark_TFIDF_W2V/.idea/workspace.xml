@@ -2,69 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5">
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_github_ben_manes_caffeine_caffeine_2_3_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_github_jsonld_java_jsonld_java_0_9_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_guava_guava_20_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_extensions_guice_multibindings_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__com_google_inject_guice_4_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__commons_codec_commons_codec_1_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__commons_io_commons_io_2_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sf_trove4j_trove4j_3_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_api_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_apibinding_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_compatibility_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_distribution_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_impl_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_oboformat_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_parsers_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_rio_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__net_sourceforge_owlapi_owlapi_tools_5_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_commons_commons_rdf_api_0_3_0_incubating_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_fluent_hc_4_5_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_cache_4_5_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_osgi_4_5_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_nio_4_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_osgi_4_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_model_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_api_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_binary_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_datatypes_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_jsonld_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_languages_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_n3_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_nquads_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_ntriples_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfjson_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_rdfxml_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trig_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_trix_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_rio_turtle_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_eclipse_rdf4j_rdf4j_util_2_1_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_22_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_22_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/libraries/sbt__org_tukaani_xz_1_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Classes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/DataProperties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Individuals" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/ObjectProperties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/SubClasses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/data2/Triplets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/src/main/scala/TripletProcessing.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Objects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectGene.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectOther.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectSpecies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Predicates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Subjects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectDisease.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectGene.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectOther.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectSpecies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/objectsBioNLP/objectDisease.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/NCBO_BioNLP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/PubMedIDs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP4/Spark Code/Spark WordCount/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -151,26 +145,29 @@
     <session id="987695526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="TF_IDF_Out" value="1" />
-          <entry key="java" value="1" />
-          <entry key="scala" value="6" />
+          <entry key="java" value="2" />
+          <entry key="scala" value="7" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Scala" value="6" />
+          <entry key="Scala" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -196,7 +193,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="459">
               <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
@@ -214,11 +211,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="3" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -286,8 +301,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/W2V_Lemmas.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/W2V.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala" />
       </list>
     </option>
   </component>
@@ -308,6 +323,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -358,15 +375,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538360705200" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CS5560GregBrownLabs/Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -528,16 +543,21 @@
       <workItem from="1538366777860" duration="38000" />
       <workItem from="1538766817281" duration="6087000" />
       <workItem from="1539286106131" duration="956000" />
+      <workItem from="1539872436472" duration="293000" />
+      <workItem from="1539873206827" duration="1043000" />
+      <workItem from="1539875185434" duration="599000" />
+      <workItem from="1539876541605" duration="2748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60559000" />
+    <option name="totallyTimeSpent" value="65242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124200426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -721,23 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -766,30 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_TriGRAM.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_Lemmas.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -835,10 +814,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_BiGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_TriGRAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/W2V_Lemmas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
