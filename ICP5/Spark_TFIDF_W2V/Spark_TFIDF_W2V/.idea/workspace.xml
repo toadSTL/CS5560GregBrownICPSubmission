@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5">
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Objects.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectChemical.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectGene.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectMutation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectOther.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/ObjectsBioNLP/objectSpecies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Predicates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Subjects.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectChemical.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectDisease.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectGene.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectMutation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectOther.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/SubjectsBioNLP/SubjectSpecies.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/objectsBioNLP/objectDisease.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/NCBO_BioNLP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/IDS/PubMedIDs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/data/9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP3/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-    </list>
+    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -147,12 +89,13 @@
         <counts>
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -232,8 +175,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+            <state relative-caret-position="578">
+              <caret line="67" column="38" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -324,7 +267,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -375,13 +317,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538360705200" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CS5560GregBrownLabs/Lab2/Spark_TFIDF_W2V/Spark_TFIDF_W2V" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -547,17 +490,18 @@
       <workItem from="1539873206827" duration="1043000" />
       <workItem from="1539875185434" duration="599000" />
       <workItem from="1539876541605" duration="2748000" />
+      <workItem from="1540333716688" duration="598000" />
+      <workItem from="1540427176495" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65242000" />
+    <option name="totallyTimeSpent" value="66583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124200426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -854,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF_Lemmas.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        <state relative-caret-position="578">
+          <caret line="67" column="38" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
         </state>
       </provider>
     </entry>

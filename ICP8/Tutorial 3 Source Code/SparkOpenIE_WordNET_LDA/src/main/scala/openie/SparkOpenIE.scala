@@ -73,7 +73,7 @@ object SparkOpenIE {
     val objOut = objects.map(s => prepString(s))
 
     val tripletsOut = triplets.map( s => {
-      val ret = prepString(s._1) + "," + prepString(s._2) + "," + prepString(s._3)
+      val ret = prepString(s._1) + "," + prepString(s._2) + "," + prepString(s._3) + ",Obj"
       ret
     })
 
@@ -214,6 +214,183 @@ object SparkOpenIE {
       val pwObjOth = new PrintWriter(new File("output\\objectOther.txt"))
       pwObjOth.write(objOth.collect().mkString("\n"))
       pwObjOth.close
+
+
+      val trips = triplets.distinct()
+
+      val predDisDis = trips.filter(s => {
+        disW.contains(s._1)&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Disease,Disease,Func");
+      val predDisSpec = trips.filter(s => {
+        disW.contains(s._1)&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Disease,Species,Func");
+      val predDisGene = trips.filter(s => {
+        disW.contains(s._1)&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Disease,Gene,Func");
+      val predDisChem = trips.filter(s => {
+        disW.contains(s._1)&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Disease,Chemical,Func");
+      val predDisMut = trips.filter(s => {
+        disW.contains(s._1)&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Disease,Mutation,Func");
+      val predDisOth = trips.filter(s => {
+        disW.contains(s._1)&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Disease,Other,Func");
+
+      val predSpecSpec = trips.filter(s => {
+        specW.contains(s._1)&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Species,Species,Func");
+      val predSpecDis = trips.filter(s => {
+        specW.contains(s._1)&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Species,Disease,Func");
+      val predSpecGene = trips.filter(s => {
+        specW.contains(s._1)&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Species,Gene,Func");
+      val predSpecChem = trips.filter(s => {
+        specW.contains(s._1)&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Species,Chemical,Func");
+      val predSpecMut = trips.filter(s => {
+        specW.contains(s._1)&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Species,Mutation,Func");
+      val predSpecOth = trips.filter(s => {
+        specW.contains(s._1)&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Species,Other,Func");
+
+
+      val predGeneGene = trips.filter(s => {
+        geneW.contains(s._1)&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Gene,Gene,Func");
+      val predGeneDis = trips.filter(s => {
+        geneW.contains(s._1)&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Gene,Disease,Func");
+      val predGeneSpec = trips.filter(s => {
+        geneW.contains(s._1)&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Gene,Species,Func");
+      val predGeneChem = trips.filter(s => {
+        geneW.contains(s._1)&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Gene,Chemical,Func");
+      val predGeneMut = trips.filter(s => {
+        geneW.contains(s._1)&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Gene,Mutation,Func");
+      val predGeneOth = trips.filter(s => {
+        geneW.contains(s._1)&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Gene,Other,Func");
+
+      val predChemChem = trips.filter(s => {
+        chemW.contains(s._1)&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Chemical,Chemical,Func");
+      val predChemDis = trips.filter(s => {
+        chemW.contains(s._1)&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Chemical,Disease,Func");
+      val predChemSpec = trips.filter(s => {
+        chemW.contains(s._1)&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Chemical,Species,Func");
+      val predChemGene = trips.filter(s => {
+        chemW.contains(s._1)&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Chemical,Gene,Func");
+      val predChemMut = trips.filter(s => {
+        chemW.contains(s._1)&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Chemical,Mutation,Func");
+      val predChemOth = trips.filter(s => {
+        chemW.contains(s._1)&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Chemical,Other,Func");
+
+      val predMutMut = trips.filter(s => {
+        mutW.contains(s._1)&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Mutation,Mutation,Func");
+      val predMutDis = trips.filter(s => {
+        mutW.contains(s._1)&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Mutation,Disease,Func");
+      val predMutSpec = trips.filter(s => {
+        mutW.contains(s._1)&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Mutation,Species,Func");
+      val predMutGene = trips.filter(s => {
+        mutW.contains(s._1)&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Mutation,Gene,Func");
+      val predMutChem = trips.filter(s => {
+        mutW.contains(s._1)&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Mutation,Chemical,Func");
+      val predMutOth = trips.filter(s => {
+        mutW.contains(s._1)&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Mutation,Other,Func");
+
+
+      val predOthDis = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&disW.contains(s._3)
+      }).map(s => prepString(s._2)+",Other,Disease,Func");
+      val predOthSpec = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&specW.contains(s._3)
+      }).map(s => prepString(s._2)+",Other,Species,Func");
+      val predOthGene = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&geneW.contains(s._3)
+      }).map(s => prepString(s._2)+",Other,Gene,Func");
+      val predOthChem = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&chemW.contains(s._3)
+      }).map(s => prepString(s._2)+",Other,Chemical,Func");
+      val predOthMut = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&mutW.contains(s._3)
+      }).map(s => prepString(s._2)+",Other,Mutation,Func");
+      val predOthOth = trips.filter(s => {
+        (!disW.contains(s._1))&&(!specW.contains(s._1))&&(!geneW.contains(s._1))&&(!chemW.contains(s._1))&&(!mutW.contains(s._1))&&(!disW.contains(s._3))&&(!specW.contains(s._3))&&(!geneW.contains(s._3))&&(!chemW.contains(s._3))&&(!mutW.contains(s._3))
+      }).map(s => prepString(s._2)+",Other,Other,Func");
+
+
+      val pwPredDis = new PrintWriter(new File("output\\predDis.txt"))
+      pwPredDis.write(predDisDis.distinct().collect().mkString("\n"))
+      pwPredDis.write(predDisSpec.distinct().collect().mkString("\n"))
+      pwPredDis.write(predDisGene.distinct().collect().mkString("\n"))
+      pwPredDis.write(predDisChem.distinct().collect().mkString("\n"))
+      pwPredDis.write(predDisMut.distinct().collect().mkString("\n"))
+      pwPredDis.write(predDisOth.distinct().collect().mkString("\n"))
+      pwPredDis.close
+
+      val pwPredSpec = new PrintWriter(new File("output\\predSpec.txt"))
+      pwPredSpec.write(predSpecDis.distinct().collect().mkString("\n"))
+      pwPredSpec.write(predSpecSpec.distinct().collect().mkString("\n"))
+      pwPredSpec.write(predSpecGene.distinct().collect().mkString("\n"))
+      pwPredSpec.write(predSpecChem.distinct().collect().mkString("\n"))
+      pwPredSpec.write(predSpecMut.distinct().collect().mkString("\n"))
+      pwPredSpec.write(predSpecOth.distinct().collect().mkString("\n"))
+      pwPredSpec.close
+
+      val pwPredGene = new PrintWriter(new File("output\\predGene.txt"))
+      pwPredGene.write(predGeneDis.distinct().collect().mkString("\n"))
+      pwPredGene.write(predGeneSpec.distinct().collect().mkString("\n"))
+      pwPredGene.write(predGeneGene.distinct().collect().mkString("\n"))
+      pwPredGene.write(predGeneChem.distinct().collect().mkString("\n"))
+      pwPredGene.write(predGeneMut.distinct().collect().mkString("\n"))
+      pwPredGene.write(predGeneOth.distinct().collect().mkString("\n"))
+      pwPredGene.close
+
+      val pwPredChem = new PrintWriter(new File("output\\predChem.txt"))
+      pwPredChem.write(predChemDis.distinct().collect().mkString("\n"))
+      pwPredChem.write(predChemSpec.distinct().collect().mkString("\n"))
+      pwPredChem.write(predChemGene.distinct().collect().mkString("\n"))
+      pwPredChem.write(predChemChem.distinct().collect().mkString("\n"))
+      pwPredChem.write(predChemMut.distinct().collect().mkString("\n"))
+      pwPredChem.write(predChemOth.distinct().collect().mkString("\n"))
+      pwPredChem.close
+
+      val pwPredMut = new PrintWriter(new File("output\\predMut.txt"))
+      pwPredMut.write(predMutDis.distinct().collect().mkString("\n"))
+      pwPredMut.write(predMutSpec.distinct().collect().mkString("\n"))
+      pwPredMut.write(predMutGene.distinct().collect().mkString("\n"))
+      pwPredMut.write(predMutChem.distinct().collect().mkString("\n"))
+      pwPredMut.write(predMutMut.distinct().collect().mkString("\n"))
+      pwPredMut.write(predMutOth.distinct().collect().mkString("\n"))
+      pwPredMut.close
+
+      val pwPredOth = new PrintWriter(new File("output\\predOth.txt"))
+      pwPredOth.write(predOthDis.distinct().collect().mkString("\n"))
+      pwPredOth.write(predOthSpec.distinct().collect().mkString("\n"))
+      pwPredOth.write(predOthGene.distinct().collect().mkString("\n"))
+      pwPredOth.write(predOthChem.distinct().collect().mkString("\n"))
+      pwPredOth.write(predOthMut.distinct().collect().mkString("\n"))
+      pwPredOth.write(predOthOth.distinct().collect().mkString("\n"))
+      pwPredOth.close
+
+
+
 
     }
 
