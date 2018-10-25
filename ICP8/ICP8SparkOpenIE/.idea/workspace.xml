@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13bda39a-1c27-464e-a478-f7ef2326a3a5" name="Default Changelist" comment="" />
+    <list default="true" id="13bda39a-1c27-464e-a478-f7ef2326a3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/Individuals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/preData/Thesaurus.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Triplets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predChem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predMut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/data/Individuals" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/data/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/data/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/data/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/data/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/data/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/data/Triplets" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/data/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/src/main/scala/OntContructorMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/src/main/scala/OntContructorMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/src/main/scala/OntoStats.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/src/main/scala/OntoStats.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/OntContructor/target/scala-2.12/classes/OntoStats$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/target/scala-2.12/classes/OntoStats$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Objects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Objects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Predicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Predicates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/DataProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Subjects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Subjects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/OntContructor/Outdated/run1/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predChem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predDis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predDis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predMut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predOth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predOth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predSpec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predSpec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -166,7 +217,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1934" />
     <option name="height" value="1047" />
@@ -223,7 +274,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539910943352" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CS5560GregBrownLabs/Lab2/Retrive_abstract/Retrive_abstract/Retrive_abstract" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -302,17 +353,18 @@
       <workItem from="1539891812069" duration="2069000" />
       <workItem from="1540313562589" duration="595000" />
       <workItem from="1540321037894" duration="587000" />
-      <workItem from="1540427175277" duration="596000" />
+      <workItem from="1540427175277" duration="1209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3847000" />
+    <option name="totallyTimeSpent" value="4460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1934" height="1047" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25827107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

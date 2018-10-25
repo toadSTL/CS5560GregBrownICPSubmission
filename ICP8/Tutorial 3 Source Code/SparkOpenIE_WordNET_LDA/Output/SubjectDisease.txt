@@ -1,13 +1,13 @@
-Disease,LungCancer
+Disease,lungCancer
 Disease,cancer
 Disease,breastCancerDiagnosis
 Disease,lungCancer
 Disease,tumour
 Disease,acromegaly
-Disease,ColorectalCancer
+Disease,colorectalCancer
 Disease,seromaProduction
-Disease,BreastCancer
-Disease,BreastCancer
+Disease,breastCancer
+Disease,breastCancer
 Disease,breastCancer
 Disease,AION
 Disease,TNBC

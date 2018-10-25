@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="350f8dbd-ba3f-4d8d-9bbc-419c4e066b98" name="Default" comment="" />
+    <list default="true" id="350f8dbd-ba3f-4d8d-9bbc-419c4e066b98" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Outdated/run1/Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/run1/Individuals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/run1/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outdated/run1/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preData/Thesaurus.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/ObjectProperties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/SubClasses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectChemical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Triplets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectMutation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predChem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predMut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8SparkOpenIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Individuals" beforeDir="false" afterPath="$PROJECT_DIR$/data/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ObjectProperties" beforeDir="false" afterPath="$PROJECT_DIR$/data/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SubClasses" beforeDir="false" afterPath="$PROJECT_DIR$/data/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Triplets" beforeDir="false" afterPath="$PROJECT_DIR$/data/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/OntContructorMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/OntContructorMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/OntoStats.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/OntoStats.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/OntoStats$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OntoStats$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Objects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Objects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Predicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Predicates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Outdated/run1/DataProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/ObjectProperties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Subjects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Subjects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Outdated/run1/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubClasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predChem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/Individuals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predDis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predDis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predMut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/Triplets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predOth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predOth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predSpec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predSpec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -47,21 +98,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Classes" value="9" />
-          <entry key="DataProperties" value="8" />
-          <entry key="Individuals" value="6" />
-          <entry key="ObjectProperties" value="8" />
-          <entry key="SubClasses" value="5" />
-          <entry key="Triplets" value="7" />
-          <entry key="owl" value="15" />
-          <entry key="scala" value="7" />
-          <entry key="txt" value="44" />
+          <entry key="Classes" value="10" />
+          <entry key="DataProperties" value="9" />
+          <entry key="Individuals" value="7" />
+          <entry key="ObjectProperties" value="9" />
+          <entry key="SubClasses" value="6" />
+          <entry key="Triplets" value="8" />
+          <entry key="owl" value="21" />
+          <entry key="scala" value="8" />
+          <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="102" />
-          <entry key="Scala" value="7" />
+          <entry key="PLAIN_TEXT" value="115" />
+          <entry key="Scala" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -72,7 +123,7 @@
           <entry key="ObjectProperties" value="11" />
           <entry key="SubClasses" value="8" />
           <entry key="owl" value="1" />
-          <entry key="scala" value="186" />
+          <entry key="scala" value="216" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -80,7 +131,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="81" />
-          <entry key="Scala" value="186" />
+          <entry key="Scala" value="216" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -92,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="939">
+              <caret line="65" column="78" selection-start-line="65" selection-start-column="78" selection-end-line="65" selection-end-column="78" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -101,31 +152,48 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Triplets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24147">
+              <caret line="58" column="87" lean-forward="true" selection-start-line="58" selection-start-column="87" selection-end-line="58" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/SubClasses">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3180">
+              <caret line="177" column="26" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/OntoStats.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="170">
+              <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/Classes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/Individuals">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32198">
-              <caret line="1894" selection-start-line="1894" selection-end-line="1894" selection-end-column="12" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -134,46 +202,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
+        <entry file="file://$PROJECT_DIR$/data/Individuals">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6715">
-              <caret line="395" column="41" selection-start-line="395" selection-start-column="41" selection-end-line="395" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Outdated/DataProperties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/SubClasses">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-            </state>
+            <state relative-caret-position="-30947" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/BreastCancer.owl">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preData/cancer_staging_terms.owl">
+        <entry file="file://$PROJECT_DIR$/Outdated/family.owl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="238">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -202,9 +250,9 @@
         <option value="$PROJECT_DIR$/data/Individuals" />
         <option value="$PROJECT_DIR$/data/Classes" />
         <option value="$PROJECT_DIR$/Outdated/Classes" />
-        <option value="$PROJECT_DIR$/src/main/scala/OntContructorMain.scala" />
         <option value="$PROJECT_DIR$/data/ObjectProperties" />
         <option value="$PROJECT_DIR$/src/main/scala/OntoStats.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/OntContructorMain.scala" />
       </list>
     </option>
   </component>
@@ -243,6 +291,12 @@
               <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
               <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
               <item name="Outdated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OntContructor" type="462c0819:PsiDirectoryNode" />
+              <item name="Outdated" type="462c0819:PsiDirectoryNode" />
+              <item name="run1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OntContructor" type="b2602c69:ProjectViewProjectNode" />
@@ -290,24 +344,25 @@
     <property name="SearchEverywhereHistoryKey" value="&quot;&#9;ACTION&#9;EditorPreviousWordInDifferentHumpsMode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540336232215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540496431450" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\SubjectsBioNLP" />
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\ObjectsBioNLP" />
-      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\objectsBioNLP" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\data" />
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData" />
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\Outdated\BreastCancer" />
       <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\Outdated" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\Outdated\run1" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\SubjectsBioNLP" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\ObjectsBioNLP" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\OntContructor\OntContructor\preData\objectsBioNLP" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -476,15 +531,16 @@
       <workItem from="1539891389708" duration="3958000" />
       <workItem from="1540313561026" duration="3384000" />
       <workItem from="1540321032693" duration="5290000" />
-      <workItem from="1540427174997" duration="1340000" />
+      <workItem from="1540427174997" duration="4454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25744000" />
+    <option name="totallyTimeSpent" value="28858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28198293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -497,7 +553,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32761088" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33261105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,18 +592,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-api/srcs/owlapi-api-5.1.0-sources.jar!/org/semanticweb/owlapi/model/IRI.java" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-apibinding/srcs/owlapi-apibinding-5.1.0-sources.jar!/org/semanticweb/owlapi/apibinding/OWLManager.java" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/HasDataFactory.java" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/axiomproviders/InverseAxiomProvider.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/OwlPizza.java" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/uk/ac/manchester/cs/owl/owlapi/concurrent/ConcurrentOWLOntologyImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1960">
-          <caret line="1331" column="9" lean-forward="true" selection-start-line="1331" selection-start-column="9" selection-end-line="1331" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/net.sourceforge.owlapi/owlapi-distribution/srcs/owlapi-distribution-5.1.0-sources.jar!/org/semanticweb/owlapi/model/OWLSignature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -641,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Outdated/family.owl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1139">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Outdated/Classes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -674,9 +711,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Outdated/Individuals">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preData/Triplets.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/preData/predChem.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -715,56 +749,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preData/ajcc_R7_staging_axioms.owl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preData/ajcc_R8_staging_axioms.owl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Triplets">
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/Triplets">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="119">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Classes">
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/Classes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Individuals">
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/Individuals">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32198">
           <caret line="1894" selection-start-line="1894" selection-end-line="1894" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/DataProperties">
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/DataProperties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6715">
-          <caret line="395" column="41" selection-start-line="395" selection-start-column="41" selection-end-line="395" selection-end-column="41" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Outdated/DataProperties">
       <provider selected="true" editor-type-id="text-editor">
@@ -773,19 +780,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/SubClasses">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/preData/Thesaurus.owl">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/BreastCancer.owl">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/preData/Triplets.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/preData/cancer_staging_terms.owl">
       <provider selected="true" editor-type-id="text-editor">
@@ -794,10 +793,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ajcc_R8_staging_axioms.owl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preData/ajcc_R7_staging_axioms.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/SubClasses">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="24" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outdated/run1/ObjectProperties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="395" column="41" selection-start-line="395" selection-start-column="41" selection-end-line="395" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Classes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/DataProperties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/OntoStats.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="170">
+          <caret line="10" column="77" lean-forward="true" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outdated/family.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/BreastCancer.owl">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/OntContructorMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="65" column="78" selection-start-line="65" selection-start-column="78" selection-end-line="65" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Triplets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24147">
+          <caret line="58" column="87" lean-forward="true" selection-start-line="58" selection-start-column="87" selection-end-line="58" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SubClasses">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Individuals">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ObjectProperties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3180">
+          <caret line="177" column="26" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
         </state>
       </provider>
     </entry>

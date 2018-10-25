@@ -21,7 +21,7 @@ isDiseaseWith,Disease,Other,Func
 amountOfWas,Disease,Other,Func
 isVeryComplexAndHeterogeneousDiseaseWith,Disease,Other,Func
 remainsFollowing,Disease,Other,Func
-MedianAmountOfWas,Disease,Other,Func
+medianAmountOfWas,Disease,Other,Func
 been,Disease,Other,Func
 is,Disease,Other,Func
 evidencedBy,Disease,Other,Func

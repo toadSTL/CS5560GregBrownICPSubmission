@@ -402,7 +402,7 @@ object SparkOpenIE {
   def prepString(s: String): String = {
     var temp = s
     if(s.contains(" ")) {
-      val words = s.split(" ")
+      val words = s.toLowerCase().split(" ")
       for(i <- 1 until words.length)
       {
         words(i) = words(i).capitalize

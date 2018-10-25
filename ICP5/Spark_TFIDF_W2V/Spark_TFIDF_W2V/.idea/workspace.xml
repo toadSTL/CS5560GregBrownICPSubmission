@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5" />
+    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="ICP 5">
+      <change afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/preData/Thesaurus.owl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP7/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/ICP8SparkOpenIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/ICP8SparkOpenIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/OntContructor/OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/SparkOpenIE_WordNET_LDA/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Objects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Objects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Predicates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Predicates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectMutation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/SubjectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/SubjectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Subjects.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Subjects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/Triplets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/Triplets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectChemical.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectChemical.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectDisease.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectDisease.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectMutation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectMutation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectOther.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectOther.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/objectSpecies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/objectSpecies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predChem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predChem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predDis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predDis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predGene.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predGene.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predMut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predMut.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predOth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predOth.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/predSpec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/Output/outdated/run11/predSpec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/src/main/scala/openie/SparkOpenIE.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ICP8/Tutorial 3 Source Code/SparkOpenIE_WordNET_LDA/target/scala-2.11/classes/openie/SparkOpenIE$.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -87,7 +119,7 @@
     <session id="987695526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.3" value="1" />
@@ -500,6 +532,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

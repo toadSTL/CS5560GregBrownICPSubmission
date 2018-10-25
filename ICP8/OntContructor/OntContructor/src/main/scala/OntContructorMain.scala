@@ -63,9 +63,9 @@ object OntContructorMain {
     //creating ontology manager
     val df = manager.getOWLDataFactory //In order to create objects that represent entities
 
-    val ontology = manager.createOntology(IRI.create(ONTOLOGYURI,"family#"))
+    val ontology = manager.createOntology(IRI.create(ONTOLOGYURI,"breastCancer#"))
     //Prefix for all the entities
-    val pm = new DefaultPrefixManager(null, null, ONTOLOGYURI+"family#")
+    val pm = new DefaultPrefixManager(null, null, ONTOLOGYURI+"breastCancer#")
 
 
     // Declaration Axiom for creating Classes
